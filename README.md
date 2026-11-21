@@ -39,13 +39,16 @@ solutions for real-world problems.
 
 ---
 
+
 ## 🧠 My Tech Universe
 
 <div align="center">
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,r"/>
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js" />
+
+</div>
 
 ### 🤖 AI & Data Science
 
@@ -162,7 +165,13 @@ Built:
 
 ☁️ **AWS Cloud Practitioner**
 
+☁️ **Python Essentials-Cisco Networking Academy**
+
 🧠 **NPTEL — Advanced Computer Architecture — 84%**
+
+🧠 **NPTEL — Applied Accelerated Artificial Intelligence — 81%**
+
+🧠 **NPTEL — Reinforcement Learning — 55%**
 
 ☁️ **NPTEL — Cloud Computing — 66%**
 
